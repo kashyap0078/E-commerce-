@@ -1,0 +1,117 @@
+{
+  "seller": [
+    {
+      "id": "00bb",
+      "name": "Ramkumar",
+      "email": "ramkumar@seller.com",
+      "password": "123456ram"
+    },
+    {
+      "id": "3817",
+      "name": "shamkumar",
+      "email": "shamkumar@seller.com",
+      "password": "123456sham"
+    },
+    {
+      "id": "b54d",
+      "name": "Dinesh kumar",
+      "email": "dineshkashyap961@gmail.com",
+      "password": "123@123"
+    },
+    {
+      "id": "a873",
+      "name": "Dinesh kumar",
+      "email": "dineshkashyap961@gmail.com",
+      "password": "123@123"
+    },
+    {
+      "id": "5346",
+      "name": "Dinesh",
+      "email": "dineshkashyap96@gmail.com",
+      "password": "asdfghjkl"
+    },
+    {
+      "id": "dd65",
+      "name": "rahul",
+      "email": "rahul121@seller.com",
+      "password": "rahul789"
+    },
+    {
+      "id": "4963",
+      "name": "rahul",
+      "email": "170120046@sbsstc.ac.in",
+      "password": "5558742"
+    },
+    {
+      "id": "45a2",
+      "name": "rahul",
+      "email": "170120046@sbsstc.ac.in",
+      "password": "5558742"
+    },
+    {
+      "id": "bdc6",
+      "name": "ellen",
+      "email": "ellen@gmail.com",
+      "password": "asdf123"
+    },
+    {
+      "id": "eb40",
+      "name": "sambahadur",
+      "email": "sam@bahadur.com",
+      "password": "asdf123"
+    },
+    {
+      "id": "f430",
+      "name": "Dinesh",
+      "email": "dineshkashyap961@gmail.com",
+      "password": "123asdf"
+    },
+    {
+      "id": "6531",
+      "name": "Dinesh",
+      "email": "rakeshkumarldh081@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "612a",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "091d",
+      "name": "raman ",
+      "email": "raman123@gmail.com",
+      "password": "123456789"
+    }
+  ],
+  "products": [
+    {
+      "id": "cdc1",
+      "name": "I phone 14 pro",
+      "price": "1500",
+      "color": "Forest Green",
+      "category": "Mobile Phone",
+      "description": "The most Powerfull iphone ever and with all new features",
+      "url": "https://media.croma.com/image/upload/v1664009755/Croma%20Assets/Communication/Mobiles/Images/249847_0_at9nl9.png"
+    },
+    {
+      "id": "803d",
+      "name": "Samsung s23 ",
+      "price": "$1200",
+      "category": "Mobile phones",
+      "color": "Black",
+      "description": "All new Samsung series with fastest performance  ",
+      "url": "https://m.media-amazon.com/images/I/519nePwnpIL.jpg"
+    },
+    {
+      "id": "7b0a",
+      "name": "Boat rockers",
+      "price": "499 ",
+      "category": "Earphones",
+      "color": "black",
+      "description": "The all new series of boat earphones",
+      "url": "https://www.boat-lifestyle.com/cdn/shop/products/1grn_66029af4-f3d3-4a56-89ab-acf9de85d776_1024x.png?v=1613743044"
+    }
+  ]
+}
